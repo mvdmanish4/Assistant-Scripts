@@ -1,0 +1,39 @@
+E:\Bot Prac\flaskbot\flaskbot\bin\Bot Application1.dll.config
+E:\Bot Prac\flaskbot\flaskbot\bin\Bot Application1.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Bot Application1.pdb
+E:\Bot Prac\flaskbot\flaskbot\bin\Autofac.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Chronic.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.Bot.Builder.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.Bot.Connector.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Newtonsoft.Json.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\System.Net.Http.Formatting.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\System.Web.Http.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\System.Web.Http.WebHost.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\Autofac.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.Bot.Builder.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.Bot.Connector.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\Newtonsoft.Json.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Bot Prac\flaskbot\flaskbot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\System.Net.Http.Formatting.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\System.Web.Http.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\System.Web.Http.WebHost.xml
+E:\Bot Prac\flaskbot\flaskbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Bot Prac\flaskbot\flaskbot\obj\Debug\flaskbot.csprojResolveAssemblyReference.cache
+E:\Bot Prac\flaskbot\flaskbot\obj\Debug\Bot Application1.dll
+E:\Bot Prac\flaskbot\flaskbot\obj\Debug\Bot Application1.pdb

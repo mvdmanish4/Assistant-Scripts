@@ -1,0 +1,39 @@
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Bot Application1.dll.config
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Bot Application1.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Bot Application1.pdb
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Autofac.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Chronic.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.Bot.Builder.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.Bot.Connector.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.Rest.ClientRuntime.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Newtonsoft.Json.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.Net.Http.Formatting.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.Web.Http.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.Web.Http.WebHost.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Autofac.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.Bot.Builder.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.Bot.Connector.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.Rest.ClientRuntime.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\Newtonsoft.Json.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.Net.Http.Formatting.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.Web.Http.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\System.Web.Http.WebHost.xml
+E:\HCKBLK\AlaAssi\AlaAssi\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\HCKBLK\AlaAssi\AlaAssi\obj\Debug\AlaAssi.csprojResolveAssemblyReference.cache
+E:\HCKBLK\AlaAssi\AlaAssi\obj\Debug\Bot Application1.dll
+E:\HCKBLK\AlaAssi\AlaAssi\obj\Debug\Bot Application1.pdb
